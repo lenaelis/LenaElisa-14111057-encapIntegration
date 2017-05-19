@@ -1,0 +1,11 @@
+OPINI
+Perbedaan antara kelas abstrak dengan kelas yang dienkapsulasi dari sisi data yang hiding :
+
+- pada method yang di kelas abstrak harus semua dipanggil pada kelas turunannya,sedangkan enkapsulasi tidak
+perlu memanggil semuanya , hanya memanggil yang ingin dienkapsulasi saja
+- enkapsulasi itu hanya menampilkan apa yang kita butuhkan/perlukan dan prosesnya tidak perlu kita ketahui secara detail
+
+contoh enkapsulasi pada kegiatan sehari-hari:
+-jika kita mengendarai suatu kendaraan misalnya kita butuh berhenti berarti 
+kita harus menekan rem tanpa harus mengetahui proses 
+kerja rem tersebut agar berhasil menghentikan kendaraan secara detail atau terperinci
